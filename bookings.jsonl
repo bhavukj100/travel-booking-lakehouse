@@ -1,0 +1,8 @@
+{"origin": "ATL", "destination": "JFK", "status": "confirmed", "amount": 250, "event_time": "2026-01-01T10:00:00", "ingested_at": "2026-01-01T10:05:00", "event_id": "e1", "booking_id": "b1"}
+{"origin": "ATL", "destination": "JFK", "status": "confirmed", "amount": 250, "event_time": "2026-01-01T10:00:00", "ingested_at": "2026-01-01T10:06:00", "event_id": "e1", "booking_id": "b1"}
+{"origin": "ATL", "destination": "JFK", "status": "confirmed", "amount": 300, "event_time": "2026-01-01T10:00:00", "ingested_at": "2026-01-01T10:05:00", "event_id": "e2", "booking_id": "b2"}
+{"origin": "ATL", "destination": "JFK", "status": "cancelled", "amount": 250, "event_time": "2026-01-01T11:00:00", "ingested_at": "2026-01-01T11:01:00", "event_id": "e3", "booking_id": "b2"}
+{"origin": "SFO", "destination": "LAX", "status": "confirmed", "amount": 180, "event_time": "2026-01-01T10:00:00", "ingested_at": "2026-01-01T10:05:00", "event_id": "e4", "booking_id": "b3"}
+{"origin": "ATL", "destination": "JFK", "status": "confirmed", "amount": 0, "event_time": "2026-01-01T10:00:00", "ingested_at": "2026-01-01T10:05:00", "event_id": "e5", "booking_id": "b4"}
+{"origin": "ATL", "destination": "JFK", "status": "confirmed", "amount": -10, "event_time": "2026-01-01T10:00:00", "ingested_at": "2026-01-01T10:05:00", "event_id": "e6", "booking_id": "b5"}
+{"origin": "ATL", "destination": "JFK", "status": "confirmed", "amount": 250, "event_time": "broken", "ingested_at": "2026-01-01T10:05:00", "event_id": "e7", "booking_id": "b6"}

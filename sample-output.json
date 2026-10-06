@@ -1,0 +1,28 @@
+{
+  "quality": {
+    "input_rows": 8,
+    "silver_rows": 5,
+    "quarantined_rows": 2,
+    "duplicates_removed": 1
+  },
+  "gold": [
+    {
+      "booking_date": "2026-01-01",
+      "origin": "ATL",
+      "destination": "JFK",
+      "bookings": 3,
+      "confirmed_bookings": 2,
+      "confirmed_revenue": 250.0,
+      "cancelled_bookings": 1
+    },
+    {
+      "booking_date": "2026-01-01",
+      "origin": "SFO",
+      "destination": "LAX",
+      "bookings": 1,
+      "confirmed_bookings": 1,
+      "confirmed_revenue": 180.0,
+      "cancelled_bookings": 0
+    }
+  ]
+}
